@@ -69,6 +69,14 @@ All outputs are visualized directly in the notebooks.
 
 ---
 
+## AWS
+installing packages
+![img](/images/install.png)
+
+![img](/images/plot1.png)
+
+![img](/images/plot2.png)
+
 ## Built With
 
 - Python
